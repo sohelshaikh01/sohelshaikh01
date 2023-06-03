@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @sohelshaikh01
-- 👀 I’m interested in ... Websites
-- 
-- 🌱 I’m currently learning ... Full Stack Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sohelshaikh01/sohelshaikh01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
