@@ -16,7 +16,7 @@
 <p align="center" style="font-family: Arial, sans-serif;">A passionate developer interested in full stack web development.</p>
 
 <!-- Frontend -->
-<h2 align="center" style="font-family: Arial, sans-serif;">Frontend</h2>
+<h2 align="left" style="font-family: Arial, sans-serif;">Frontend</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" width="auto" height="40">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" width="auto" height="40">
@@ -72,6 +72,6 @@
 
 <!-- Your stats -->
 <h2 align="center" style="font-family: Arial, sans-serif;">Stats</h2>
-<P> Undefined Till Now </p>
+<h3 align="center"> Undefined Till Now </h3>
 <p align="center">
  
