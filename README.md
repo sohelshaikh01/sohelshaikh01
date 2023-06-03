@@ -23,15 +23,6 @@
   <!-- Add more frontend technologies here -->
 </p>
 
-<!-- JavaScript Frameworks -->
-<h2 align="center" style="font-family: Arial, sans-serif;">JavaScript Frameworks</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" width="auto" height="40">
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" width="auto" height="40">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" width="auto" height="40">
-  <!-- Add more JavaScript frameworks here -->
-</p>
-
 <!-- CSS Frameworks -->
 <h2 align="center" style="font-family: Arial, sans-serif;">CSS Frameworks</h2>
 <p align="center">
@@ -39,12 +30,13 @@
   <!-- Add more CSS frameworks here -->
 </p>
 
-<!-- Backend -->
-<h2 align="center" style="font-family: Arial, sans-serif;">Backend</h2>
+<!-- JavaScript Frameworks -->
+<h2 align="center" style="font-family: Arial, sans-serif;">JavaScript Frameworks</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" width="auto" height="40">
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" width="auto" height="40">
-  <!-- Add more backend technologies here -->
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" width="auto" height="40">
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" width="auto" height="40">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" width="auto" height="40">
+  <!-- Add more JavaScript frameworks here -->
 </p>
 
 <!-- Database -->
@@ -55,19 +47,20 @@
   <!-- Add more database technologies here -->
 </p>
 
+<!-- Backend -->
+<h2 align="center" style="font-family: Arial, sans-serif;">Backend</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" width="auto" height="40">
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" width="auto" height="40">
+  <!-- Add more backend technologies here -->
+</p>
+
 <!-- Language -->
 <h2 align="center" style="font-family: Arial, sans-serif;">Language</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" width="auto" height="40">
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" width="auto" height="40">
   <!-- Add more language logos here -->
-</p>
-
-<!-- DSA -->
-<h2 align="center" style="font-family: Arial, sans-serif;">DSA</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-000000?logo=data-structures&logoColor=white" alt="DSA" width="auto" height="40">
-  <!-- Add more DSA logos here -->
 </p>
 
 <!-- Tools -->
@@ -85,5 +78,4 @@
 <!-- Your stats -->
 <h2 align="center" style="font-family: Arial, sans-serif;">Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_border=true" alt="Your GitHub Stats">
-</p>
+ 
