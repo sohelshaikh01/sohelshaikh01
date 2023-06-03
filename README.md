@@ -6,10 +6,11 @@
 <!-- Your bio -->
 <h1 align="center" style="font-family: Arial, sans-serif;">Hi there, I'm Your Name 👋</h1>
 <p align="center">
-  <a href="https://your-website-url.com" style="font-family: Arial, sans-serif;">Website</a> •
-  <a href="mailto:your-email@example.com" style="font-family: Arial, sans-serif;">Email</a> •
-  <a href="https://linkedin.com/in/your-linkedin" style="font-family: Arial, sans-serif;">LinkedIn</a> •
-  <a href="https://twitter.com/your-twitter" style="font-family: Arial, sans-serif;">Twitter</a>
+  <img src="https://img.shields.io/badge/Website-YourWebsiteURL-1abc9c" alt="Your Website" width="auto" height="40">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" width="auto" height="40">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" width="auto" height="40">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" width="auto" height="40">
+
 </p>
 
 <p align="center" style="font-family: Arial, sans-serif;">A passionate developer interested in full stack web development.</p>
@@ -20,14 +21,13 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" width="auto" height="40">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" width="auto" height="40">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="auto" height="40">
-  <!-- Add more frontend technologies here -->
 </p>
 
 <!-- CSS Frameworks -->
 <h2 align="center" style="font-family: Arial, sans-serif;">CSS Frameworks</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" width="auto" height="40">
-  <!-- Add more CSS frameworks here -->
+   <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="auto" height="40">
 </p>
 
 <!-- JavaScript Frameworks -->
@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" width="auto" height="40">
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" width="auto" height="40">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" width="auto" height="40">
-  <!-- Add more JavaScript frameworks here -->
 </p>
 
 <!-- Database -->
@@ -44,7 +43,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" width="auto" height="40">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" width="auto" height="40">
-  <!-- Add more database technologies here -->
 </p>
 
 <!-- Backend -->
@@ -52,7 +50,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" width="auto" height="40">
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" width="auto" height="40">
-  <!-- Add more backend technologies here -->
 </p>
 
 <!-- Language -->
@@ -60,7 +57,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" width="auto" height="40">
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" width="auto" height="40">
-  <!-- Add more language logos here -->
 </p>
 
 <!-- Tools -->
@@ -72,7 +68,6 @@
   <img src="https://img.shields.io/badge/Replit-667881?logo=replit&logoColor=white" alt="Replit" width="auto" height="40">
   <img src="https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white" alt="Blogger" width="auto" height="40">
   <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit" width="auto" height="40">
-  <!-- Add more tool logos here -->
 </p>
 
 <!-- Your stats -->
