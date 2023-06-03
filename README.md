@@ -4,7 +4,7 @@
 </p>
 
 <!-- Your bio --> <!-- Default height value is 40 -->
-<h1 align="center" style="font-family: Arial, sans-serif;">Hi there, I'm Your Name 👋</h1>
+<h1 align="center" style="font-family: Arial, sans-serif;">Hi there, I'm Sohel Shaikh 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Website-YourWebsiteURL-1abc9c" alt="Your Website" width="auto" height="25">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" width="auto" height="25">
