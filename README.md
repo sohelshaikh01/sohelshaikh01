@@ -9,7 +9,7 @@
 <h1 align="center" style="font-family: Arial, sans-serif;">Hi there, I'm Sohel Shaikh 👋</h1>
 <p align="center">
   <a href="YourWebsiteURL" style="pointer-events: none;">
-    <img src="https://img.shields.io/badge/Website-YourWebsiteURL-1abc9c" alt="Your Website" width="auto" height="25">
+    <img src="https://img.shields.io/badge/Website-YourWebsiteURL-1abc9c" alt="Your Website" width="auto" height="40">
   </a>
   <a href="https://sohel.techin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" width="auto" height="25">
