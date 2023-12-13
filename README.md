@@ -7,7 +7,7 @@
 <h1 align="center" style="font-family: Arial, sans-serif;">Hi there, I'm Sohel Shaikh 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Website-YourWebsiteURL-1abc9c" alt="Your Website" width="auto" height="25">
-  <a href="sohel.techin@gmail.com">
+  <a href="https://sohel.techin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" width="auto" height="25"></a>
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" width="auto" height="25">
   <a href="https://www.linkedin.com/in/sohel-shaikh-tech01/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKcVk2PdJT12zUsOvwKVd6A%3D%3D">
