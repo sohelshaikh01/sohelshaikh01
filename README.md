@@ -9,8 +9,10 @@
   <img src="https://img.shields.io/badge/Website-YourWebsiteURL-1abc9c" alt="Your Website" width="auto" height="25">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" width="auto" height="25">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" width="auto" height="25">
+  <a href="https://www.linkedin.com/in/sohel-shaikh-tech01/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKcVk2PdJT12zUsOvwKVd6A%3D%3D">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" width="auto" height="25">
-
+  </a>
+  
 </p>
 
 <p align="center" style="font-family: Arial, sans-serif;">A passionate developer interested in full stack web development.</p>
