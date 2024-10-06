@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://your-image-url.com/your-image.png">
-    <img src="https://your-image-url.com/your-image.png" alt="Sohel Shaikh" width="170">
+    <img src="https://your-image-url.com/your-image.png" alt="Sohel Shaikh Image" width="170">
   </a>
 </p>
 
 <p> 
-  <li> Make it Proper And looks like, Any App Profile Page</li> 
+  <li> Make it Proper And looks like a Profile Page</li> 
   <li> Add Portfolio Website look and Other links with Styling like grid and any other design </li>
 </p>
 
