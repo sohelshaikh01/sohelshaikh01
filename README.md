@@ -1,17 +1,25 @@
 <!-- Your header -->
+
 <p align="center">
   <a href="https://your-image-url.com/your-image.png">
     <img src="https://your-image-url.com/your-image.png" alt="Sohel Shaikh" width="170">
   </a>
 </p>
 
+<p> 
+  <li> Make it Proper And looks like, Any App Profile Page</li> 
+  <li> Add Portfolio Website look and Other links with Styling like grid and any other design </li>
+</p>
+
 <!-- Your bio --> <!-- Default height value is 40 -->
+
 <h1 align="center" style="font-family: Arial, sans-serif;">Hi there, I'm Sohel Shaikh 👋</h1>
+
 <p align="center">
   <a href="YourWebsiteURL" style="pointer-events: none;">
     <img src="https://img.shields.io/badge/Website-YourWebsiteURL-1abc9c" alt="Your Website" width="auto" height="25">
   </a>
-  <a href="https://sohelshaikh4111s@gmail.com">
+  <a href="https://sohel.techin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" width="auto" height="25">
   </a>
   <a href="TwitterLink">
