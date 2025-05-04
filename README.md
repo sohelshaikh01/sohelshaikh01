@@ -6,11 +6,11 @@
   </a>
 </p>
 
-<p> 
+<!-- 
   <li> Make it Proper And looks like a Profile Page</li> 
   <li> Add Portfolio Website look and Other links with Styling like grid and any other design </li>
   <li> Add Leetcode and other Stats</li>
-</p>
+-->
 
 <!-- Your bio --> <!-- Default height value is 40 -->
 
