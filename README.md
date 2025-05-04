@@ -40,6 +40,12 @@
   <!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" height="25"> -->
 </p>
 
+<!-- 
+  <li> Make it Proper And looks like a Profile Page</li> 
+  <li> Add Portfolio Website look and Other links with Styling like grid and any other design </li>
+  <li> Add Leetcode and other Stats</li>
+-->
+
 <!-- Backend -->
 <h2 align="center">Backend</h2>
 <p align="center">
