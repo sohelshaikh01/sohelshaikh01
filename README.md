@@ -14,7 +14,7 @@
   <a href="https://mysite-portfoliohub.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-1abc9c?logo=web&logoColor=white" alt="Portfolio" height="25">
   </a>
-  <a href="https://sohel.techin@gmail.com">
+  <a href="sohel.techin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="25">
   </a>
   <a href="https://www.linkedin.com/in/sohel-shaikh-tech/">
