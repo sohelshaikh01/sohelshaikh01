@@ -1,13 +1,12 @@
 <!-- Your header -->
 
-<style>
-  .button {
+<!-- <style> .button {
     backgroundColor: skyblue;
     color: white;
     padding: 6px 12px;
     font-size: 24px;
-  }
-</style>
+    }
+  </style> -->
 
 <p align="center">
   <a href="https://your-image-url.com/your-image.png">
@@ -39,7 +38,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="25">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="25">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="25">
-  <p class="button"> Tech Stack</p>
+  <!-- <p class="button"> Tech Stack</p> -->
 </p>
 
 <!-- JavaScript Frameworks -->
