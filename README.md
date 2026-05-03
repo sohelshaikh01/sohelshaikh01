@@ -56,7 +56,7 @@
 <!-- Language -->
 <h2 align="center">Languages</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" height="25">
+  <img disabled="true" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" height="25">
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="25">
 </p>
 
