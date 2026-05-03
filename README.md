@@ -1,5 +1,14 @@
 <!-- Your header -->
 
+<style>
+  .button {
+    backgroundColor: skyblue;
+    color: white;
+    padding: 6px 12px;
+    font-size: 24px;
+  }
+</style>
+
 <p align="center">
   <a href="https://your-image-url.com/your-image.png">
     <img src="https://your-image-url.com/your-image.png" alt="Sohel Shaikh Image" width="170">
@@ -22,7 +31,7 @@
   </a>
 </p>
 
-<p align="center">A passionate developer interested in full stack web development.</p>
+<h3 align="center">A passionate developer interested in full stack web development.</p>
 
 <!-- Frontend -->
 <h2 align="center">Frontend</h2>
@@ -30,21 +39,14 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="25">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="25">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="25">
+  <p class="button"> Tech Stack</p>
 </p>
 
 <!-- JavaScript Frameworks -->
 <h2 align="center">JavaScript Frameworks</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" height="25">
-  <!-- <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" height="25"> -->
-  <!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" height="25"> -->
 </p>
-
-<!-- 
-  <li> Make it Proper And looks like a Profile Page</li> 
-  <li> Add Portfolio Website look and Other links with Styling like grid and any other design </li>
-  <li> Add Leetcode and other Stats</li>
--->
 
 <!-- Backend -->
 <h2 align="center">Backend</h2>
@@ -68,11 +70,5 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="25">
   </a>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" height="25">
-  <!-- <img src="https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white" alt="Blogger" height="25"> -->
   <img src="https://img.shields.io/badge/Replit-667881?logo=replit&logoColor=white" alt="Replit" height="25">
-  <!-- <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit" height="25"> -->
 </p>
-
-<!-- Stats -->
-<h2 align="center">Stats</h2>
-<h3 align="center">Undefined Till Now</h3>
